@@ -1,6 +1,15 @@
-# Belgaonkar Fitness - Gym Management System
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge" />
+</div>
 
-A complete mobile-first gym management system designed for small to mid-size gyms in India.
+<h1 align="center">Belgaonkar Fitness - Gym Management System</h1>
+
+<p align="center">
+  <i>A complete mobile-first gym management system designed for small to mid-size gyms in India.</i>
+</p>
+
+<br/>
 
 ## 🎯 Features
 
